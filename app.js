@@ -38,4 +38,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+app.listen(process.env.process || 5000, () => console.log(`Listening to port ${post})`)
+
 module.exports = app;
