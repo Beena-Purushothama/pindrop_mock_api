@@ -1,0 +1,218 @@
+{
+    "1" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+         },
+    "2" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.83
+            }
+        },
+    "3" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.84
+            }
+        },
+    "4" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 1.00
+            }
+        },
+    "5" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "6" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.99
+            }
+        },
+    "7" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "8" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "9" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.83
+            }
+        },
+    "10" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.99
+            }
+        },
+    "11" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.82
+            }
+        },
+    "12" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "13" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "14" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.74
+            }
+        },
+    "15" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "16" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "17" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.83
+            }
+        },
+    "18" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "19" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 1.00
+            }
+        },
+    "20" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "21" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "22" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "23" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "24" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.84
+            }
+        }
+}
