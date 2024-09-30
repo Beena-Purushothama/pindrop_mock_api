@@ -8,8 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 var app = express();
-
-// view engine setup
+const port = process.env.PORT || 4000;// view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
@@ -38,6 +37,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-app.listen(process.env.PORT || 5000, () => console.log(`Listening to port 5000`))
+app.listen(port, () => console.log(`Listening to port ${port}`))
 
 module.exports = app;
