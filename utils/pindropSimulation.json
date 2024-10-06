@@ -14,7 +14,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.83
+                "risk_score": 0.083
             }
         },
     "3" : {
@@ -23,7 +23,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.84
+                "risk_score": 0.084
             }
         },
     "4" : {
@@ -32,7 +32,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 1.00
+                "risk_score": 0.00
             }
         },
     "5" : {
@@ -50,7 +50,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.99
+                "risk_score": 0.099
             }
         },
     "7" : {
@@ -77,7 +77,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.83
+                "risk_score": 0.083
             }
         },
     "10" : {
@@ -86,7 +86,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.99
+                "risk_score": 0.099
             }
         },
     "11" : {
@@ -95,7 +95,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.82
+                "risk_score": 0.082
             }
         },
     "12" : {
@@ -149,7 +149,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.83
+                "risk_score": 0.083
             }
         },
     "18" : {
