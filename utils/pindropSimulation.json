@@ -5,7 +5,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.09770471
+                "risk_score": 0.84
             }
          },
     "2" : {
@@ -14,7 +14,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.083
+                "risk_score": 0.84
             }
         },
     "3" : {
@@ -23,7 +23,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.084
+                "risk_score": 0.84
             }
         },
     "4" : {
@@ -32,7 +32,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.00
+                "risk_score": 0.84
             }
         },
     "5" : {
@@ -41,7 +41,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.09770471
+                "risk_score": 0.84
             }
         },
     "6" : {
@@ -50,7 +50,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.099
+                "risk_score": 0.84
             }
         },
     "7" : {
