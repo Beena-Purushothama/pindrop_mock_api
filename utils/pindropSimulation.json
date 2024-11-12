@@ -194,7 +194,7 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.98
+                "risk_score": 0.099
             }
         },
     "23" : {
@@ -203,10 +203,226 @@
                 "risk_reasons": [
                     "valid_ani"
                 ],
-                "risk_score": 0.99
+                "risk_score": 0.0099
             }
         },
     "24" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.84
+            }
+        },
+    "25" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+         },
+    "26" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "27" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.084
+            }
+        },
+    "28" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.00
+            }
+        },
+    "29" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.09770471
+            }
+        },
+    "30" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.099
+            }
+        },
+    "31" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "32" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "33" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "34" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "35" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "36" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "37" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "38" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "39" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "40" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "41" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "42" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "43" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "44" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "45" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.083
+            }
+        },
+    "46" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.099
+            }
+        },
+    "47" : {
+            "data": {
+                "is_high_risk": false,
+                "risk_reasons": [
+                    "valid_ani"
+                ],
+                "risk_score": 0.0099
+            }
+        },
+    "48" : {
             "data": {
                 "is_high_risk": false,
                 "risk_reasons": [
