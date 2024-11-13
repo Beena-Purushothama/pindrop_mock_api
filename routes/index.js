@@ -29,7 +29,7 @@ router.get('/pindrop', function(req, res, next) {
 router.get('/pegaPindrop', function(req, res, next) {
   const result = pegaPindropJson[counter];
   counter = (counter === maxlength) ? 1 : ++counter ;
-  console.log("counter-----"+ counter)
+  console.log("counter-----"+ counter + ", result =" + result)
   return res
   .status(200)
   .type('application/json')
