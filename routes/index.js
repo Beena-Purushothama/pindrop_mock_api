@@ -10,7 +10,7 @@ const pegaPindropRes =  fs.readFileSync(path.resolve(__dirname, "../utils/pegaPi
 const pegaPindropJson = JSON.parse(pegaPindropRes)
 
 let counter = 1;
-const maxlength = 24;
+const maxlength = 48;
 
 
 /* GET home page. */
